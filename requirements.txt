@@ -1,0 +1,8 @@
+flask
+flask-login
+flask-wtf
+flask-talisman
+pyotp
+stripe
+joblib
+scikit-learn
